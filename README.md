@@ -1,5 +1,5 @@
 # ICSE-2019-Submission-Supplementary-Materials
-Supplementary materials for ICSE 2019.
+Supplementary materials for an ICSE 2019 submission.
 
 We discussed the process to reduce personal bias in Section IV-D (Data collection for competitors’ status, Step 5) in Score.pptx.
 
